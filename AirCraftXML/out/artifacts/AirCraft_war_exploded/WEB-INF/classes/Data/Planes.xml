@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Planes>
+    <Plane>
+        <model>Airbus-A310</model>
+        <yearOfIssue>2010-07-12</yearOfIssue>
+        <airline>American Airlines Group</airline>
+    </Plane>
+    <Plane>
+        <model>Airbus-A319</model>
+        <yearOfIssue>2013-05-04</yearOfIssue>
+        <airline>Deutsche Lufthansa</airline>
+    </Plane>
+    <Plane>
+        <model>AirbusA320</model>
+        <yearOfIssue>2014-05-16</yearOfIssue>
+        <airline>Deutsche Lufthansa</airline>
+    </Plane>
+    <Plane>
+        <model>Airbus-A330</model>
+        <yearOfIssue>2016-12-19</yearOfIssue>
+        <airline>United Continental</airline>
+    </Plane>
+    <Plane>
+        <model>Airbus-A380</model>
+        <yearOfIssue>2012-07-30</yearOfIssue>
+        <airline>Delta Air Lines</airline>
+    </Plane>
+</Planes>

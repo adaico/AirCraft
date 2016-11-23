@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Cities>
+    <City id="1">
+        <name>Moscow</name>
+        <countryName>Russia</countryName>
+    </City>
+    <City id="2">
+        <name>Sao-Paulo</name>
+        <countryName>Brazil</countryName>
+    </City>
+    <City id="3">
+        <name>London</name>
+        <countryName>United Kingdom</countryName>
+    </City>
+    <City id="4">
+        <name>Hong Kong</name>
+        <countryName>Chinese</countryName>
+    </City>
+    <City id="5">
+        <name>New York</name>
+        <countryName>USA</countryName>
+    </City>
+</Cities>

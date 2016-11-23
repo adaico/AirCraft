@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<Airlines>
+    <Airline id="1">
+        <name>American Airlines Group</name>
+        <foundDate>1926-04-15</foundDate>
+    </Airline>
+    <Airline id="2">
+        <name>Deutsche Lufthansa</name>
+        <foundDate>1926-01-06</foundDate>
+    </Airline>
+    <Airline id="3">
+        <name>United Continental</name>
+        <foundDate>2010-10-01</foundDate>
+    </Airline>
+    <Airline id="4">
+        <name>Delta Air Lines</name>
+        <foundDate>1924-05-30</foundDate>
+    </Airline>
+</Airlines>

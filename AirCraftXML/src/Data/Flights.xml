@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Flights>
+    <Flight id="1">
+        <durationM>120</durationM>
+        <depTime>2016-12-01</depTime>
+        <depAirport>Sheremetyevo</depAirport>
+        <arrAirport>Guarulhos</arrAirport>
+        <airline>American Airlines Group</airline>
+    </Flight>
+    <Flight id="2">
+        <durationM>434</durationM>
+        <depTime>2015-03-06</depTime>
+        <depAirport>Congonhas</depAirport>
+        <arrAirport>Domodedovo</arrAirport>
+        <airline>United Continental</airline>
+    </Flight>
+    <Flight id="3">
+        <durationM>453</durationM>
+        <depTime>2014-05-25</depTime>
+        <depAirport>Vnukovo</depAirport>
+        <arrAirport>Guarulhos</arrAirport>
+        <airline>Delta Air Lines</airline>
+    </Flight>
+    <Flight id="4">
+        <durationM>354</durationM>
+        <depTime>2016-07-15</depTime>
+        <depAirport>Sheremetyevo</depAirport>
+        <arrAirport>Congonhas</arrAirport>
+        <airline>Deutsche Lufthansa</airline>
+    </Flight>
+    <Flight id="5">
+        <durationM>341</durationM>
+        <depTime>2015-04-16</depTime>
+        <depAirport>Congonhas</depAirport>
+        <arrAirport>Sheremetyevod</arrAirport>
+        <airline>Delta Air Lines</airline>
+    </Flight>
+</Flights>

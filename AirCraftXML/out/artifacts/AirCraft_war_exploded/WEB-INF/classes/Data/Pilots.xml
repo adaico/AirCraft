@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Pilots>
+    <pilot>
+        <firstName>Leonardo</firstName>
+        <lastName>DiCaprio</lastName>
+        <birthDate>1974-11-11</birthDate>
+        <airline>American Airlines Group</airline>
+    </pilot>
+    <pilot>
+        <firstName>Tom</firstName>
+        <lastName>Hanks</lastName>
+        <birthDate>1956-07-09</birthDate>
+        <airline>American Airlines Group</airline>
+    </pilot>
+    <pilot>
+        <firstName>David</firstName>
+        <lastName>Morse</lastName>
+        <birthDate>1953-10-11</birthDate>
+        <airline>Deutsche Lufthansa</airline>
+    </pilot>
+    <pilot>
+        <firstName>Nicolas</firstName>
+        <lastName>Cage</lastName>
+        <birthDate>1964-01-07</birthDate>
+        <airline>United Continental</airline>
+    </pilot>
+    <pilot>
+        <firstName>Kevin</firstName>
+        <lastName>Spacey</lastName>
+        <birthDate>1959-07-26</birthDate>
+        <airline>Delta Air Lines</airline>
+    </pilot>
+</Pilots>
